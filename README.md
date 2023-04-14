@@ -2,7 +2,7 @@
 
 This repository presents the final project of EECS6322 for  [Learning a Self-Expressive Networl for Subspace Clustering]()
 
-### Usage
+### Code usage
 
 Run the scripts by using following command
 
